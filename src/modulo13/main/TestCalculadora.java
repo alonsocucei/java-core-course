@@ -1,8 +1,8 @@
-package main;
+package modulo13.main;
 
-import calculadora.model.Operaciones;
-import calculadora.view.ImpresionDatos;
-import calculadora.view.LecturaDatos;
+import modulo13.calculadora.model.Operaciones;
+import modulo13.calculadora.view.ImpresionDatos;
+import modulo13.calculadora.view.LecturaDatos;
 
 public class TestCalculadora {
     public static void main(String[] args) {

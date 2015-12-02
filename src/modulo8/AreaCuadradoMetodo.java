@@ -1,3 +1,4 @@
+package modulo8;
 import java.util.Scanner;
 
 public class AreaCuadradoMetodo {

@@ -1,3 +1,4 @@
+package modulo6;
 import java.util.Scanner;
 public class SumaDeNumerosConArreglos {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-
+package modulo11;
 public class CalculaSegundos {
 
     public static void main(String[] args) {

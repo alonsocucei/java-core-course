@@ -1,4 +1,4 @@
-
+package modulo7;
 import java.util.Scanner;
 
 public class PromedioEdades {

@@ -1,3 +1,4 @@
+package modulo5;
 import java.util.Scanner;
 
 public class Multiplo2y3_2 {

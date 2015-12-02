@@ -1,4 +1,4 @@
-
+package modulo12;
 public class ErroresComunes {
 
     public static void main(String[] args) {

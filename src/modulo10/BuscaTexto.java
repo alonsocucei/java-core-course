@@ -1,3 +1,4 @@
+package modulo10;
 
 import java.util.Scanner;
 

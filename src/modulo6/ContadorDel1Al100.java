@@ -1,4 +1,4 @@
-
+package modulo6;
 public class ContadorDel1Al100 {
     public static void main(String[] args) {
         byte contador = 1;

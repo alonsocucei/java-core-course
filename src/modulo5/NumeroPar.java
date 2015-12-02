@@ -1,3 +1,4 @@
+package modulo5;
 import java.util.Scanner;
 public class NumeroPar {
     public static void main(String[] args) {

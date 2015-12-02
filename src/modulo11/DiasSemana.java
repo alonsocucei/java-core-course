@@ -1,4 +1,4 @@
-
+package modulo11;
 public class DiasSemana {
     enum Dias {LUNES, MARTES, MIERCOLES, JUEVES, VIERNES, SABADO, DOMINGO}
     

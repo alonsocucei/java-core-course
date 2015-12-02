@@ -1,4 +1,4 @@
-
+package modulo12;
 public class LanzamientoExcepciones {
 
     public static void main(String[] args) {

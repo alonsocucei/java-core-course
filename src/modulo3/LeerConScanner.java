@@ -1,3 +1,4 @@
+package modulo3;
 import java.lang.*; //si no se escribe, el compilador automaticamente agrega esta linea
 import java.util.Scanner;
 

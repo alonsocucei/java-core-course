@@ -1,4 +1,4 @@
-package calculadora.view;
+package modulo13.calculadora.view;
 
 public class ImpresionDatos {
     public static void imprimirResultadoSuma(int dato) {

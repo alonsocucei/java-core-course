@@ -1,3 +1,4 @@
+package modulo8;
 public class ImpresionArreglosMetodo {
     public static void main(String[] args) {
         int[] enteros = {4, 3, 12, 42, 234, 1, 10};

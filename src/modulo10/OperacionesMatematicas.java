@@ -1,3 +1,4 @@
+package modulo10;
 /**
  *
  * @author jjsanche

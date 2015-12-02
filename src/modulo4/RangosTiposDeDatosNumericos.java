@@ -1,4 +1,4 @@
-
+package modulo4;
 public class RangosTiposDeDatosNumericos {
     public static void main(String[] args) {
         System.out.println(Byte.MIN_VALUE);

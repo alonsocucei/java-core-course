@@ -1,4 +1,4 @@
-
+package modulo4;
 import java.util.Scanner;
 
 public class OperadorModulo {

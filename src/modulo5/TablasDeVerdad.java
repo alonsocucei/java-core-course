@@ -1,4 +1,4 @@
-
+package modulo5;
 public class TablasDeVerdad {
     public static void main(String[] args) {
         System.out.println("Tabla de verdad para el operador AND:");

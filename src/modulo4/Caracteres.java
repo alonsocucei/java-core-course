@@ -1,4 +1,4 @@
-
+package modulo4;
 public class Caracteres {
     public static void main(String[] args) {
         char arroba; //declaracion de variable

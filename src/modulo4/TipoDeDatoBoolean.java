@@ -1,4 +1,4 @@
-
+package modulo4;
 public class TipoDeDatoBoolean {
     public static void main(String[] args) {
         boolean resultado = 5 < 5;
